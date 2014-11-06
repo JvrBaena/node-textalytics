@@ -1,0 +1,25 @@
+{
+  "name": "node-textalytics",
+  "version": "0.0.0",
+  "description": "Nodejs Wrapper for Textalytics API",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JvrBaena/node-textalytics.git"
+  },
+  "keywords": [
+    "textalytics"
+  ],
+  "author": "Javier Baena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JvrBaena/node-textalytics/issues"
+  },
+  "homepage": "https://github.com/JvrBaena/node-textalytics",
+  "dependencies": {
+    "request": "~2.47.0"
+  }
+}
