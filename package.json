@@ -1,6 +1,6 @@
 {
   "name": "node-textalytics",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Nodejs Wrapper for Textalytics API",
   "main": "./lib/index.js",
   "scripts": {
